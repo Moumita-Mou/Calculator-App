@@ -9,10 +9,6 @@
 - **Expo Integration**: Build and deploy with ease using the Expo framework.
 - **Node.js Backend**: Lightweight backend logic using Node.js.
 
-## Repository Link
-
-You can access the repository [here](https://github.com/Moumita-Mou/Calculator-App).
-
 ## Installation
 
 To run the project locally:
